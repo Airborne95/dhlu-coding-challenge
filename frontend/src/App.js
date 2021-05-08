@@ -71,7 +71,7 @@ function App() {
                 <p>Add User</p>
                 <input type="text" placeholder="John" onChange={event => setAddUserInput(event.target.value)} value={addUserInput}/>
               </label>
-              <button type="submit">Submit</button>
+              <button type="submit">Add</button>
             </form>
         </div>
       </header>
