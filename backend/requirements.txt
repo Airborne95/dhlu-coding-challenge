@@ -1,6 +1,7 @@
 asgiref==3.2.10
 Django==3.0.7
 django-cors-headers==3.4.0
+# pkg-resources==0.0.0 #Looks like this is a bug: https://stackoverflow.com/questions/39577984/what-is-pkg-resources-0-0-0-in-output-of-pip-freeze-command
 djangorestframework==3.12.4
 pytz==2020.1
 sqlparse==0.3.1
